@@ -1,6 +1,6 @@
 -
   email: admin
-  password: 'admin123'
+  password: 'correcthorsebatterystaple'
   key: admin
   role: 'admin'
   securityQuestion:
